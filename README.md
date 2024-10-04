@@ -1,7 +1,4 @@
 # darkxplmon README
-Berikut adalah versi README yang ditulis dalam format Markdown untuk tema yang menggabungkan **Dark Mode**, **Green**, **Red**, dan **Black** di Visual Studio Code:
-
----
 
 # 🚀 Awesome Dark Mode Theme
 
