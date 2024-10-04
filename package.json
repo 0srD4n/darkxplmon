@@ -1,0 +1,37 @@
+{
+  "name": "darkxplmon",
+  "displayName": "DarkXplMon",
+  "description": "The Awesome Dark Mode Theme brings a refreshing twist to the classic dark mode by blending calming green tones, bold red highlights, and a deep black background. This theme is designed for those who enjoy a sleek, modern interface that enhances focus while adding a bit of personality with its vibrant color accents. ",
+  "publisher": "xpldan",
+  "version": "0.1.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark mode",
+    "calming",
+    "green highlights",
+    "red highlights",
+    "monochrome",
+    "vscode",
+    "deep black background",
+    "sleek interface",
+    "personality"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "DarkXplMon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkXplMon-color-theme.json"
+      }
+    ]
+  }
+}
