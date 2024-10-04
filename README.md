@@ -1,5 +1,3 @@
-# darkxplmon README
-
 # 🚀 Awesome Dark Mode Theme
 
 ### 🎨 A unique blend of **Dark**, **Green**, **Red**, and **Black** colors for a sleek and modern look.
@@ -16,8 +14,6 @@ This theme is designed for those who enjoy a visually appealing, dark interface 
 ## 📷 Screenshots
 
 ![Main Interface](/themes.png)
-*Dark background with green and red highlights*
-
 ## 💻 Installation
 
 1. Clone or download this repository:
@@ -45,11 +41,7 @@ If you'd like to tweak the theme further, simply edit the `theme.json` or `style
 
 We welcome contributions! Whether it's bug fixes, feature requests, or feedback, feel free to fork this repository, make your changes, and submit a pull request.
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
 
 Enjoy the new **Dark Mode** theme! 🌑
 ## Working with Markdown
