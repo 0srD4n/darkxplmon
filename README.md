@@ -18,7 +18,7 @@ This theme is designed for those who enjoy a visually appealing, dark interface 
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/awesome-dark-mode-theme.git
+   git clone https://github.com/0srD4n/darkxplmon.git
    ```
 
 2. Follow the installation instructions based on your editor:
